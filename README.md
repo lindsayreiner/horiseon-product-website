@@ -6,10 +6,8 @@ The Horiseon website is a client info page that allows businesses to share the d
 
 Landing page for Horiseon Social Solution Services as part of the tools used in a sales pitch.
 
-```md
-![website-photo](assets\images\01-html-css-git-homework-demo.png)
-```
 
+<img src="./assets/images/01-html-css-git-homework-demo.png" alt="website-screenshot">
 
 ##Contact
 If you want to contact me you can reach me at lindsayreiner@hey.com
