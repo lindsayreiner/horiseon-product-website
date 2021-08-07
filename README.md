@@ -10,7 +10,7 @@ Used for Horiseon Social Solution Services as part of the tools used in a sales 
 
 ## Problems Solved
 
-* All <div> HTML elements have been replaced to flow in correct semantic HTML, increasing accessibility.
+* All **div** HTML elements have been replaced to flow in correct semantic HTML, increasing accessibility.
 
 * Add alt tags to images that were missing them.
 
